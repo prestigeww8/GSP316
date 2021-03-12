@@ -1,4 +1,4 @@
 # Humboldt State University
-# Advanced Remote Sensing
+# Intermediate Remote Sensing
 # Preston Heen
 # Professor: Buddhika Madurapperuma
